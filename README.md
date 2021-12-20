@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 WIP
+
+![sts](https://badge42.herokuapp.com/api/stats/lucafern?privacyEmail=true&darkmode=false&cursus=Basecamp)
 
 <!--
 **lucasfads/lucasfads** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
