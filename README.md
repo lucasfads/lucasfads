@@ -15,9 +15,9 @@
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfads&layout=compact&theme=radical)](https://github.com/peguimasid)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfads&layout=compact&theme=radical)](https://github.com/lucasfads)
 
-![codewars](https://www.codewars.com/users/lucasfads/badges/large)
+[![codewars](https://www.codewars.com/users/lucasfads/badges/large)](https://www.codewars.com/users/lucasfads)
 
 ![sts](https://badge42.herokuapp.com/api/stats/lucafern?privacyEmail=true&darkmode=false&cursus=Basecamp)
 
