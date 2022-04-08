@@ -19,7 +19,7 @@
 
 [![codewars](https://www.codewars.com/users/lucasfads/badges/large)](https://www.codewars.com/users/lucasfads)
 
-![sts](https://badge42.herokuapp.com/api/stats/lucafern?privacyEmail=true&darkmode=false&cursus=Basecamp)
+[![lucafern's 42 stats](https://badge42.vercel.app/api/v2/cl1qt838d001109l4rgly5n5b/stats?cursusId=36&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
 
 <!--
 **lucasfads/lucasfads** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
