@@ -17,8 +17,6 @@
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfads&layout=compact&theme=radical&count_private=true)](https://github.com/lucasfads)
 
-[![lucafern's 42 stats](https://badge42.vercel.app/api/v2/cl1qt838d001109l4rgly5n5b/stats?cursusId=21&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
-
 [![codewars](https://www.codewars.com/users/lucasfads/badges/large)](https://www.codewars.com/users/lucasfads)
 
 <!--
