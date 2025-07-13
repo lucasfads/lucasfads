@@ -15,4 +15,6 @@ I’m Lucas Fads, a Brazilian full-stack developer and product owner with over 1
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/lucasfads)
 
 ---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasfads&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=lucasfads&theme=radical)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfads&layout=compact&theme=radical&count_private=true)](https://github.com/lucasfads)
